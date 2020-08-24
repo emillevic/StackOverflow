@@ -1,0 +1,19 @@
+.topic{
+    font-size: 16px;
+}
+
+.comment{
+    font-size: 13px;
+    line-height: 1.2;
+}
+
+.comment .material-icons{
+    font-size: 14px;
+}
+
+.ans-info{
+    font-size: 13px;
+}
+.com-info{
+    font-size: 12px;
+}
